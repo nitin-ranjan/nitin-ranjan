@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a> 👋</h1>
+<h1 align="center">Hi👋, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a></h1>
 
 <h3 align="center">I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too. Always eager to learn and take on new challenges in the tech world.</h3>
 
