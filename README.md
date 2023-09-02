@@ -1,4 +1,7 @@
-## Hi, I'm Nitin Ranjan👋
+<h2>
+Hi, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a> 👋
+</h2>
+
 I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too.
 
 ### Let's Connect and have a Chat! 💬
