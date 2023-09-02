@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a></h1>
 
-<h3 align="center">I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">I'm an aspiring full-stack software engineer in my pre-final year, pursuing a B.Tech in Computer Science and Engineering at IIT (BHU) Varanasi. I'm passionate about competitive programming and web development, always ready for new tech challenges.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
