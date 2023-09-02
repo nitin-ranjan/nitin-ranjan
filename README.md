@@ -1,12 +1,12 @@
 ## Hi, I'm Nitin Ranjan👋
-
+I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too.
 ### Glad to see you here! 
 
-#### Some personal stuff about me
+#### Talking about Personal Stuffs : 
 - 🔭 I’m currently working on my Resume.
 - 🌱 I’m currently learning Data Structures and Algorithms on Leetcode.
 - 👯 I’m looking to collaborate on MERN Projects.
-- 💬 Ask me about ...
+- 💬 Ask me about anything, I am happy to help ;)
 - 📫 How to reach me: nitin.ranjan.cse21@iitbhu.ac.in
 - 📄 Resume
 - ⚡ Fun fact: None
