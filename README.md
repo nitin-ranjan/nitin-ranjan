@@ -17,13 +17,11 @@
 
 ### Let's Connect and have a Chat! 💬
 
-<a href="https://www.instagram.com/itz_nitinsingh_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://www.linkedin.com/in/nitinranjan707/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-</a>
-<hr>
+<p align="left">
+<a href="https://www.linkedin.com/in/nitinranjan707/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitinranjan707/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
+</p>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
