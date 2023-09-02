@@ -6,10 +6,10 @@
 
 ### Talking about Personal Stuffs : 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Data Structures and Algorithms on Leetcode.
-- 👯 I’m looking to collaborate on MERN Projects.
+- 🌱 I’m currently learning Data Structures and Algorithms on <a href="https://leetcode.com/user_init/">**Leetcode**</a>.
+- 👯 I’m looking to collaborate on **MERN Projects**.
 - 💬 Ask me about anything, I am happy to help ;)
-- 📫 How to reach me: nitin.ranjan.cse21@iitbhu.ac.in
+- 📫 How to reach me: **nitin.ranjan.cse21@iitbhu.ac.in**
 - 📄 Resume
 - ⚡ Fun fact: None
 
