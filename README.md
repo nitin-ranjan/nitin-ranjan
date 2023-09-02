@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms on <a href="https://leetcode.com/user_init/">**Leetcode**</a>.
 - 👯 I’m looking to collaborate on **MERN Projects**.
 - 💬 Ask me about anything, I am happy to help ;)
-- 📫 How to reach me: **nitin.ranjan.cse21@iitbhu.ac.in**
-- 📄 Resume
+- 📫 Reach me at : **nitin.ranjan.cse21@iitbhu.ac.in**
+- 📄 <a href="https://drive.google.com/file/d/183WjIIOWfZq0KfRWdeJorxjnQsX3lzbL/view?usp=sharing" target="blank"> Resume </a>
 - ⚡ Fun fact: None
 
 <hr>
