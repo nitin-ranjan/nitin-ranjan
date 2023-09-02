@@ -1,8 +1,17 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a> 👋</h1>
 
 <h3 align="center">I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too. Always eager to learn and take on new challenges in the tech world.</h3>
-<br>
+
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### Talking about Personal Stuffs : 
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Data Structures and Algorithms on Leetcode.
+- 👯 I’m looking to collaborate on MERN Projects.
+- 💬 Ask me about anything, I am happy to help ;)
+- 📫 How to reach me: nitin.ranjan.cse21@iitbhu.ac.in
+- 📄 Resume
+- ⚡ Fun fact: None
 
 ### Let's Connect and have a Chat! 💬
 
@@ -22,15 +31,6 @@
 </p>
 
 <hr>
-
-#### Talking about Personal Stuffs : 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Data Structures and Algorithms on Leetcode.
-- 👯 I’m looking to collaborate on MERN Projects.
-- 💬 Ask me about anything, I am happy to help ;)
-- 📫 How to reach me: nitin.ranjan.cse21@iitbhu.ac.in
-- 📄 Resume
-- ⚡ Fun fact: None
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
