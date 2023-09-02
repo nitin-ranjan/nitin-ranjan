@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an aspiring full-stack software engineer. Currently in my pre-final year pursuing B.Tech in CSE from IIT (BHU) Varanasi. I am a competitive programming enthusiast and interested in Web Development too. Always eager to learn and take on new challenges in the tech world.</h3>
 
-<img align="right" alt="Coding" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Talking about Personal Stuffs : 
 - 🔭 I’m currently working on something cool.
