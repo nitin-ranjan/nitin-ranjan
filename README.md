@@ -51,4 +51,4 @@
 
 <p align = "center" ><img src="https://komarev.com/ghpvc/?username=nitinranjan707&color=blue&label=Visits" alt="Views" /></p>
 
-![snake gif](https://github.com/nitinranjan707/nitinranjan707/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nitinranjan707/nitinranjan707/blob/output/github-contribution-grid-snake-dark.svg)
