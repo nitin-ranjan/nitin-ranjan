@@ -43,3 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinranjan707&show_icons=true&locale=en&layout=donut-vertical&theme=tokyonight" alt="nitinranjan707" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="nitinranjan707"/></p>
+
+<p align = "center" ><img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Visits" alt="Views" /></p>
