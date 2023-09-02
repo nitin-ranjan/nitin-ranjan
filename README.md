@@ -1,10 +1,5 @@
 ### Hi there 👋
 
----
-> It is never too late to be who you might have been.
-
-— George Elliot
-
 <!--
 **nitinranjan707/nitinranjan707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
