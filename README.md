@@ -32,3 +32,5 @@ I am an aspiring full-stack software engineer. Currently in my pre-final year pu
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinranjan707&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/nitinranjan707/nitinranjan707/blob/output/github-contribution-grid-snake.svg)
