@@ -50,5 +50,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="nitinranjan707"/></p>
 
 <p align = "center" ><img src="https://komarev.com/ghpvc/?username=nitinranjan707&color=blue&label=Visitors Count" alt="Views" /></p>
+<hr>
 
 ![snake gif](https://github.com/nitinranjan707/nitinranjan707/blob/output/github-contribution-grid-snake-dark.svg)
