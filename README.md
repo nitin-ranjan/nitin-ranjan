@@ -45,9 +45,9 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinranjan707&show_icons=true&layout=donut-vertical&theme=tokyonight" alt="Nitin Ranjan Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinranjan707&show_icons=true&layout=donut-vertical&theme=radical" alt="Nitin Ranjan Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
 
 <br>
 
