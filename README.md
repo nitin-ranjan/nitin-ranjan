@@ -51,7 +51,10 @@
 
 <br>
 
-<p align = "center" ><img src="https://komarev.com/ghpvc/?username=nitinranjan707&color=blue&label=Visitors Count" alt="Views" /></p>
+<p align="center">:round_pushpin: Visitors Count</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nitinranjan707/count.svg">
+</div>
 
 <hr>
 
