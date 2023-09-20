@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **MERN Projects**.
 - 💬 Ask me about anything, I am happy to help ;)
 - 📫 Reach me at : **nitin.ranjan.cse21@iitbhu.ac.in**
-- 📄 <a href="https://drive.google.com/file/d/1yF3Mb_Qw7e9Yy15xilNc2aSh_PWnK4Ym" target="blank"> Resume </a>
+- 📄 <a href="https://drive.google.com/file/d/1yF3Mb_Qw7e9Yy15xilNc2aSh_PWnK4Ym/edit" target="blank"> Resume </a>
 - ⚡ Fun fact: None
 
 <hr>
