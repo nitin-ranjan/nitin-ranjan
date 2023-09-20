@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm <a href="https://github.com/nitinranjan707" target="_blank" rel="noreferrer">Nitin Ranjan</a></h1>
+<h1 align="center">Hi👋, I'm <a href="https://github.com/nitin-ranjan" target="_blank" rel="noreferrer">Nitin Ranjan</a></h1>
 
 <h3 align="center">I'm an aspiring full-stack software engineer in my pre-final year, pursuing a B.Tech in Computer Science and Engineering at IIT (BHU) Varanasi. I'm passionate about competitive programming and web development, always ready for new tech challenges.</h3>
 
@@ -18,7 +18,7 @@
 ### Let's Connect and have a Chat! 💬
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nitinranjan707/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitinranjan707/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin-ranjan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitin-ranjan/" height="40" width="40" /></a>
 <a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in"><img align="center" alt="Nitin Ranjan - Google Mail" src="https://api.iconify.design/logos:google-gmail.svg" height="40" width="40"/></a>
 <a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
 </p>
@@ -45,17 +45,17 @@
 
 <hr>
 
-<p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinranjan707&show_icons=true&layout=donut&theme=radical" alt="Nitin Ranjan Stats" /></p>
+<p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=radical" alt="Nitin Ranjan Stats" /></p>
 
-<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nitinranjan707&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
+<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
 
 <br>
 
 <p align="center">:round_pushpin: Visitors Count</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/nitinranjan707/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nitin-ranjan/count.svg">
 </div>
 
 <hr>
 
-![snake gif](https://github.com/nitinranjan707/nitinranjan707/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/nitin-ranjan/nitin-ranjan/blob/output/github-contribution-grid-snake-dark.svg)
