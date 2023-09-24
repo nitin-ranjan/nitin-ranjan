@@ -38,8 +38,17 @@
 
 <br><br><hr>
 
-<p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=radical" alt="Nitin Ranjan Stats" /></p>
-<p><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=radical"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=shadow_blue"/>
+  <img height="200" align="left" alt="Nitin Ranjan Stats"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=shadow_blue&count_private=true&include_all_commits=true"/>
+  <img height="200" align="center" alt="Nitin Ranjan Stats"/>
+</picture>
 
 
 **<p align="center">:round_pushpin: Visitors Count</p>**
