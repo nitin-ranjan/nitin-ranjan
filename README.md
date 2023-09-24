@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm <a href="https://github.com/nitin-ranjan">Nitin Ranjan</a></h1>
-<h3 align="center">I'm an aspiring full-stack software engineer in my pre-final year, pursuing a B.Tech in Computer Science and Engineering at IIT (BHU) Varanasi. I'm passionate about competitive programming and web development, always ready for new tech challenges.</h3>
+<h3 align="center">I'm an aspiring full-stack software engineer in my pre-final year, pursuing a B.Tech in Computer Science and Engineering at Indian Institute of Technology (BHU) Varanasi. I'm passionate about competitive programming and web development, always ready for new tech challenges.</h3>
 <img alt="Nitin Ranjan Coding" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gif.gif" align="right" width="300">
 
 
