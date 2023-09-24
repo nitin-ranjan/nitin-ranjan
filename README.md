@@ -26,7 +26,6 @@
 
 
 ### 🚀 Some Tools I Have Used and Learned
-<p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_react.svg" align="left" alt="ReactJs" height="40" width="40"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_nodejs.svg" align="left" alt="nodeJs" height="40" width="40"/></a>
@@ -40,8 +39,7 @@
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c++.svg" align="left" alt="C++" height="40" width="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_html.svg" align="left" alt="HTML" height="40" width="40"/></a>
 <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c.svg" align="left" alt="C" height="40" width="40"/></a>
-</p>
-
+<br><br>
 <hr>
 
 <p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=radical" alt="Nitin Ranjan Stats" /></p>
