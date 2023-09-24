@@ -42,7 +42,7 @@
 <p><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
 
 
-<p align="center">:round_pushpin: Visitors Count</p>
+**<p align="center">:round_pushpin: Visitors Count</p>**
 <div align="center"><img alt="visitors counter" src="https://profile-counter.glitch.me/nitin-ranjan/count.svg"></div>
 
 <hr>
