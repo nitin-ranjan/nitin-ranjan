@@ -18,7 +18,7 @@
 ### Let's Connect and have a Chat! 💬
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nitin-ranjan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitin-ranjan/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin-ranjan-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitin-ranjan-/" height="40" width="40" /></a>
 <a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in"><img align="center" alt="Nitin Ranjan - Google Mail" src="https://api.iconify.design/logos:google-gmail.svg" height="40" width="40"/></a>
 <a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
 </p>
