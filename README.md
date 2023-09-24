@@ -18,11 +18,9 @@
 
 
 ### Let's Connect and have a Chat! 💬
-<p align="left">
 <a href="https://www.linkedin.com/in/nitin-ranjan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_linkedin.svg" alt="https://www.linkedin.com/in/nitin-ranjan-/" height="40" width="40" /></a>
-<a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in"><img align="center" alt="Nitin Ranjan - Email" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gmail.svg" height="40" width="40"/></a>
+<a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in" target="blank"><img align="center" alt="Nitin Ranjan - Email" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gmail.svg" height="40" width="40"/></a>
 <a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_instagram.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
-</p>
 
 
 ### 🚀 Some Tools I Have Used and Learned
