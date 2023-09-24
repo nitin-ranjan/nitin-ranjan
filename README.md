@@ -27,7 +27,7 @@
 
 ### 🚀 Some Tools I Have Used and Learned
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
 <a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="nodeJs" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png"/></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/></a>
