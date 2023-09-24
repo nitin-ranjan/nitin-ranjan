@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/nitin-ranjan-/" target="blank"><img align="left" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_linkedin.svg" alt="https://www.linkedin.com/in/nitin-ranjan-/" height="40" width="40" /></a>
 <a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in" target="blank"><img align="left" alt="Nitin Ranjan - Email" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gmail.svg" height="40" width="40"/></a>
 <a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="left" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_instagram.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
-
+<br><br>
 
 ### 🚀 Some Tools I Have Used and Learned
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
@@ -43,8 +43,6 @@
 <p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-ranjan&show_icons=true&layout=donut&theme=radical" alt="Nitin Ranjan Stats" /></p>
 
 <p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nitin Ranjan Stats"/></p>
-
-<br>
 
 <p align="center">:round_pushpin: Visitors Count</p>
 <div align="center"><img alt="visitors counter" src="https://profile-counter.glitch.me/nitin-ranjan/count.svg"></div>
