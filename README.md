@@ -2,7 +2,8 @@
 
 <h3 align="center">I'm an aspiring full-stack software engineer in my pre-final year, pursuing a B.Tech in Computer Science and Engineering at IIT (BHU) Varanasi. I'm passionate about competitive programming and web development, always ready for new tech challenges.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Nitin Coding" width="300" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gif.gif">
+
 
 ### Talking about Personal Stuffs : 
 - 🔭 I’m currently working on something cool.
@@ -15,13 +16,18 @@
 
 <hr>
 
+
 ### Let's Connect and have a Chat! 💬
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nitin-ranjan-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nitin-ranjan-/" height="40" width="40" /></a>
-<a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in"><img align="center" alt="Nitin Ranjan - Google Mail" src="https://api.iconify.design/logos:google-gmail.svg" height="40" width="40"/></a>
-<a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
+    
+<a href="https://www.linkedin.com/in/nitin-ranjan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_linkedin.svg" alt="https://www.linkedin.com/in/nitin-ranjan-/" height="40" width="40" /></a>
+    
+<a href="mailto:nitin.ranjan.cse21@iitbhu.ac.in"><img align="center" alt="Nitin Ranjan - Email" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_gmail.svg" height="40" width="40"/></a>
+
+<a href="https://www.instagram.com/itz_nitinsingh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_instagram.svg" alt="https://www.instagram.com/itz_nitinsingh_/" height="40" width="40" /></a>
 </p>
+
 
 ### 🚀 Some Tools I Have Used and Learned
 <p align="left">
