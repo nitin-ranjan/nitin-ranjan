@@ -36,7 +36,6 @@
 <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c++.svg" align="left" alt="C++" height="40" width="40"/></a>
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_java.svg" align="left" alt="java" height="40" width="40"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_git.svg" align="left" alt="git" height="40" width="40"/></a>
 
 <br><br><hr>
 
