@@ -22,19 +22,19 @@
 <br><br>
 
 ### 🚀 Some Tools I Have Used and Learned
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_mongodb.svg" align="left" alt="MongoDB" height="40" width="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_express.svg" align="left" alt="express" height="40" width="40"/></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_react.svg" align="left" alt="ReactJs" height="40" width="40"/></a>
 <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_nodejs.svg" align="left" alt="nodeJs" height="40" width="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_mongodb.svg" align="left" alt="MongoDB" height="40" width="40"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_bootstrap.svg" align="left" alt="bootstrap" height="40" width="40"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_css.svg" align="left" alt="css3" height="40" width="40"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_express.svg" align="left" alt="express" height="40" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_git.svg" align="left" alt="git" height="40" width="40"/></a>
-<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_javascript.svg" align="left" alt="javascript" height="40" width="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_mysql.svg" align="left" alt="mysql" height="40" width="40"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c++.svg" align="left" alt="C++" height="40" width="40"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_javascript.svg" align="left" alt="javascript" height="40" width="40"/></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_html.svg" align="left" alt="HTML" height="40" width="40"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_css.svg" align="left" alt="css3" height="40" width="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_bootstrap.svg" align="left" alt="bootstrap" height="40" width="40"/></a>
 <a href="https://www.learn-c.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c.svg" align="left" alt="C" height="40" width="40"/></a>
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_c++.svg" align="left" alt="C++" height="40" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_python.svg" align="left" alt="Python" height="40" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/nitin-ranjan/nitin-ranjan/main/images/nitin_ranjan_git.svg" align="left" alt="git" height="40" width="40"/></a>
 
 <br><br><hr>
 
