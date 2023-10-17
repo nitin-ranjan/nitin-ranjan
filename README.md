@@ -46,8 +46,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical&include_all_commits=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=shadow_blue&include_all_commits=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=radical"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nitin-ranjan&show_icons=true&theme=shadow_blue"/>
   <img height="200" align="center" alt="Nitin Ranjan Stats"/>
 </picture>
 
